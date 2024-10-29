@@ -1,0 +1,35 @@
+{
+	"authors": [
+		{
+			"email": "joan@sirvelia.com",
+			"homepage": "https://sirvelia.com",
+			"name": "Joan Rodas Cusidó",
+			"role": "Developer"
+		}
+	],
+	"autoload": {
+		"files": [
+			"Utils/dev.php",
+			"Utils/functions.php"
+		],
+		"psr-4": {
+			"SimpleProductBadges\\": ""
+		}
+	},
+	"description": "An amazing plugin made with PLUBO",
+	"homepage": "https://github.com/joanrodas/plubo",
+	"keywords": [
+		"plugin",
+		"wordpress",
+		"boilerplate",
+		"wp"
+	],
+	"license": "GPL-3.0+",
+	"name": "sirvelia/simple-product-badges",
+	"require": {
+		"php": ">=7.4",
+		"htmlburger/carbon-fields": "^3.6",
+		"joanrodas/custom-product-fields": "0.1.6"
+	},
+	"type": "template"
+}
