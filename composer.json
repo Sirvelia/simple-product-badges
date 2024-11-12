@@ -29,7 +29,7 @@
 	"require": {
 		"php": ">=7.4",
 		"htmlburger/carbon-fields": "^3.6",
-		"joanrodas/custom-product-fields": "0.1.6"
+		"joanrodas/custom-product-fields": "0.1.7"
 	},
 	"type": "template"
 }
